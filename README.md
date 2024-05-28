@@ -3,15 +3,49 @@
 Welcome to Petinder, the Tinder for pets! This project aims to create a platform where pet owners can find the perfect match for their furry friends. Whether you're looking for a playmate, a mate, or a forever friend for your pet, Petinder will help you connect.
 
 
-## Features
+## Specifications 
+- [ ] Users should be able to login 
+- [ ] Users should be able to sign up 
+- [ ] Users should be able to upload pictures 
+- [ ] Users should be able to chat 
+- [ ] Users should be able to upload the images and the description of their pets
+- [ ] Location for pets that are around you 
+- [ ] Match according to dog breed and interest 
+- [ ] Search for specific individuals 
+- [ ] Logout and delete account 
+- [ ] There should be a user help section 
+- [ ] Ranking system after dating happens
+- [ ] Video chat 
+- [ ] reporting after pets 
 
-- **Pet Profiles:** Create and manage profiles for your pets.
-- **Matchmaking:** Swipe through potential matches for your pet.
-- **Messaging:** Communicate with other pet owners.
-- **Meet-Up Arrangements:** Schedule and manage meet-ups for your pets.
 
+## Database
+**Pets**
+- [ ] Name
+- [ ] DOB
+- [ ] Profile
+- [ ] Gender
+- [ ] Type of Pet
+- [ ] Allergies
 
+**Pet Owners**
+- [ ] Name
+- [ ] DOB
+- [ ] Gender
+- [ ] Number of Pets
+- [ ] Location
+- [ ] Email
+- [ ] Password
+- [ ] Phone Number
+- [ ] Profile Picture
+- [ ] Bio
 
-To help design and understand the database structure, use [dbdiagram.io](https://dbdiagram.io). It’s a powerful tool for visualizing your database schema and collaborating with team members.
+**Ratings**
+- [ ] Who is being rated
+- [ ] Ranking5/
+- [ ] Notes
 
-![Image of db sketch](dbdiagram.jpg)
+**Reports**
+- [ ] Reporter
+- [ ] Accused
+- [ ] Description
