@@ -42,7 +42,7 @@ Welcome to Petinder, the Tinder for pets! This project aims to create a platform
 
 **Ratings**
 - [ ] Who is being rated
-- [ ] Ranking5/
+- [ ] Ranking
 - [ ] Notes
 
 **Reports**
